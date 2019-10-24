@@ -18,10 +18,16 @@
    2.6 wait download and progress installation .. done
 
 3. add package lib wifi from : 
+   
    3.1 https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi
+   
    3.2 https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266HTTPClient
    
 4. install package esp8266Wifi & esp8266HTTPClient
+
    4.1 on arduino ide select skecth >> include library >> add.zip labrary >> select file.zip >>open
 
 5. done.
+
+# test
+ install wemos-test.ino on your wemos
